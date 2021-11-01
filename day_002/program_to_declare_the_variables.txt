@@ -1,0 +1,11 @@
+fun main()
+{
+val age=23;
+val name="Snow Nisha Amala Doss"
+println("Hello ${name}!")
+println("You are already ${age}")
+}
+
+Output:
+Hello Snow Nisha Amala Doss!
+You are already 23
