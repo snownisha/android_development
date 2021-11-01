@@ -1,8 +1,0 @@
-#Create and using variables:
-
-fun main() {
-    val age=23;
-    val name="Snow Nisha Amala Doss";
-    println("Hello ${name}!")
-    println("you are already ${age}")
-}
