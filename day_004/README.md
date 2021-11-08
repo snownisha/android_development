@@ -6,3 +6,6 @@ In Android Studio, select on View > Tool Windows > Resource Manager tab to the l
 Choose the image view from palette and align the selected image with pink color rectangle box.
 Position of the image can be adjust in the common attributes of scale type
 Image & Text order can be changed by simply dragging them
+
+## Medium Link
+https://medium.com/me/stories/public
