@@ -6,3 +6,6 @@ Click app > res > values > strings.xml, you can see that Android Studio has crea
 
 
 Medium Link: https://medium.com/me/stories/public
+
+![1](https://user-images.githubusercontent.com/93483438/141004120-fcd38bf5-ba0d-4f16-8630-f5bd6f677c7d.PNG)
+![2](https://user-images.githubusercontent.com/93483438/141004125-daadefd2-c539-4f95-a761-76191cce68aa.png)
