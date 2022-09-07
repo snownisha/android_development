@@ -1,3 +1,4 @@
+#To change the dice number
 fun main() {
    
     val myFirstDice = Dice()
